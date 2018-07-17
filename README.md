@@ -7,11 +7,13 @@ Now Kravox shall be made accessible for everyone and serve as a musical experime
 
 
 How to play Kravox
+
 Playing Kravox is as quite straightforward. Just imagine you are playing around with an ordinary object like a broom and the way you touch and move it through space controls how sound is generated. 
 
 
 
 What is Kravox
+
 Kravox is a cross-platform compatible, digital open source musical instrument that consists of three components – controller/s, receiver and software
 
 Controller/s
